@@ -23,6 +23,4 @@ int main()
         flag=0;
     }
     printf("%d",count);
-
-
 }
